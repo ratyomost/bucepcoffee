@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+		<meta charset="UTF-8" />
+	<!-- wp_head -->
+	<title>Không tìm thấy trang này</title>
+<meta name='robots' content='noindex,nofollow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin  &raquo;" href="http://bucepcoffee.com/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi  &raquo;" href="http://bucepcoffee.com/index.php/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/bucepcoffee.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.17"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+	.themify_builder .wow { visibility: hidden; }
+	div:not(.caroufredsel_wrapper) > .themify_builder_slider > li:not(:first-child), .mfp-hide { display: none; }
+a.themify_lightbox, .module-gallery a, .gallery-icon, .themify_lightboxed_images .post a[href$="jpg"], .themify_lightboxed_images .post a[href$="gif"], .themify_lightboxed_images .post a[href$="png"], .themify_lightboxed_images .post a[href$="JPG"], .themify_lightboxed_images .post a[href$="GIF"], .themify_lightboxed_images .post a[href$="PNG"], .themify_lightboxed_images .post a[href$="jpeg"], .themify_lightboxed_images .post a[href$="JPEG"] { cursor:not-allowed; }
+	.themify_lightbox_loaded a.themify_lightbox, .themify_lightbox_loaded .module-gallery a, .themify_lightbox_loaded .gallery-icon { cursor:pointer; }
+	</style><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='themify-common-css'  href='http://bucepcoffee.com/wp-content/themes/themify-ultra/themify/css/themify.common.min.css?ver=4.8.6' type='text/css' media='all' />
+<meta name="themify-framework-css" data-href="http://bucepcoffee.com/wp-content/themes/themify-ultra/themify/css/themify.framework.min.css?ver=4.8.6" content="themify-framework-css" id="themify-framework-css" /><meta name="builder-styles-css" data-href="http://bucepcoffee.com/wp-content/themes/themify-ultra/themify/themify-builder/css/themify-builder-style.min.css?ver=4.8.6" content="builder-styles-css" id="builder-styles-css" />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://bucepcoffee.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.17' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='http://bucepcoffee.com/wp-content/themes/themify-ultra/style.min.css?ver=2.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-media-queries-css'  href='http://bucepcoffee.com/wp-content/themes/themify-ultra/media-queries.min.css?ver=2.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ultra-header-css'  href='http://bucepcoffee.com/wp-content/themes/themify-ultra/styles/header-top-widgets.min.css?ver=2.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-customize-css'  href='http://bucepcoffee.com/wp-content/uploads/themify-customizer.css?ver=21.04.23.15.52.19' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,300,600,700&#038;subset=latin' type='text/css' media='all' />
+<script type='text/javascript' src='http://bucepcoffee.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="http://bucepcoffee.com/index.php/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bucepcoffee.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bucepcoffee.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.17" />
+
+
+<link href="http://bucepcoffee.com/wp-content/uploads/2020/05/1588204243639.jpeg" rel="shortcut icon" /> 
+
+<style>
+	.search-button{
+		display:none;
+	}
+</style>
+
+
+		<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin/>
+	
+	<script type="text/javascript">
+	    var tf_mobile_menu_trigger_point = 900;
+	</script>
+	
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<style>
+	@-webkit-keyframes themifyAnimatedBG {
+		0% { background-color: #33baab; }
+100% { background-color: #e33b9e; }
+50% { background-color: #4961d7; }
+33.3% { background-color: #2ea85c; }
+25% { background-color: #2bb8ed; }
+20% { background-color: #dd5135; }
+
+	}
+	@keyframes themifyAnimatedBG {
+		0% { background-color: #33baab; }
+100% { background-color: #e33b9e; }
+50% { background-color: #4961d7; }
+33.3% { background-color: #2ea85c; }
+25% { background-color: #2bb8ed; }
+20% { background-color: #dd5135; }
+
+	}
+	.themify_builder_row.animated-bg {
+		-webkit-animation: themifyAnimatedBG 30000ms infinite alternate;
+		animation: themifyAnimatedBG 30000ms infinite alternate;
+	}
+	</style>
+	
+</head>
+
+<body class="error404 themify-builder-4-6-9 themify-fw-4-8-6 themify-ultra-2-7-5 skin-default not-ie sidebar1 no-home no-touch builder-parallax-scrolling-active ready-view header-top-widgets fixed-header footer-horizontal-left  rss-off tile_enable filter-hover-none filter-featured-only masonry-enabled">
+
+<script type="text/javascript">
+	function themifyMobileMenuTrigger(e) {
+		var w = document.body.clientWidth;
+		if( w > 0 && w <= tf_mobile_menu_trigger_point ) {
+			document.body.classList.add( 'mobile_menu_active' );
+		} else {
+			document.body.classList.remove( 'mobile_menu_active' );
+		}
+		
+	}
+	themifyMobileMenuTrigger();
+	var _init =function () {
+	    jQuery( window ).on('tfsmartresize.tf_mobile_menu', themifyMobileMenuTrigger );
+	    document.removeEventListener( 'DOMContentLoaded', _init, {once:true,passive:true} );
+	    _init=null;
+	};
+	document.addEventListener( 'DOMContentLoaded', _init, {once:true,passive:true} );
+</script>
+			<div id="search-lightbox-wrap">
+	<div class="search-lightbox">
+		<div id="searchform-wrap">
+			<form method="get" id="searchform" action="http://bucepcoffee.com/">
+
+	<i class="icon-search"></i>
+
+	<input type="text" name="s" id="s" title="Search" placeholder="Search" value="" />
+
+    
+</form>
+		</div>
+		<!-- /searchform wrap -->
+		<div class="search-results-wrap"></div>
+	</div>
+	<i id="close-search-box"></i>
+</div>
+<!-- /search-lightbox -->
+		<!-- /search-box -->
+<div id="pagewrap" class="hfeed site">
+
+			<div id="headerwrap"   >
+                        			                                                    <div class="header-icons">
+                                <a id="menu-icon" href="#mobile-menu"><span class="menu-icon-inner"></span></a>
+                            </div>
+                        
+			<header id="header" class="pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+	            
+	            <div class="header-bar">
+		            						<div id="site-logo"><a href="http://bucepcoffee.com" title=""><img src="http://bucepcoffee.com/wp-content/uploads/2020/05/1.png" alt="" title="1" /></a></div>					
+																				</div>
+				<!-- /.header-bar -->
+
+									<div id="mobile-menu" class="sidemenu sidemenu-off">
+
+						
+						<div class="navbar-wrapper clearfix">
+
+															<div class="social-widget">
+																												
+																	</div>
+								<!-- /.social-widget -->
+							
+															<a class="search-button" href="#"></a>								<!-- /searchform-wrap -->
+							
+							<nav id="main-nav-wrap" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+																	<ul id="main-nav" class="main-nav menu-name-main-navigation-in-vietnamese"><li id='menu-item-12' class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home" ><a  href="http://bucepcoffee.com/">Trang chủ</a> </li>
+<li id='menu-item-620' class="menu-item menu-item-type-post_type menu-item-object-page" ><a  href="http://bucepcoffee.com/index.php/ve-chung-toi/">Về chúng tôi</a> </li>
+<li id='menu-item-574' class="menu-item menu-item-type-post_type menu-item-object-page" ><a  href="http://bucepcoffee.com/index.php/quy-trinh/">Quy trình</a> </li>
+<li id='menu-item-94' class="menu-item menu-item-type-post_type menu-item-object-page" ><a  href="http://bucepcoffee.com/index.php/lien-he/">Liên hệ hợp tác</a> </li>
+<li id='menu-item-506' class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu has-sub-menu" ><a  href="#pll_switcher"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFsSURBVHjaYvzPgAD/UNlYEUAAmuTYAAAQhAEYqF/zFbe50RZ1cMmS9TLi0pJLRjZohAMTGFUN9HdnHgEE1sDw//+Tp0ClINW/f4NI9d////3+f+b3/1+////+9f/XL6A4o6ws0AaAAGIBm/0fRTVQ2v3Pf97f/4/9Aqv+DdHA8Ps3UANAALEAMSNQNdDGP3+ALvnf8vv/t9//9X/////7f+uv/4K//iciNABNBwggsJP+/IW4kuH3n//1v/8v+wVSDURmv/57//7/CeokoKFA0wECiAnkpL9/wH4CO+DNr/+VQA1A9PN/w6//j36CVIMRxEkAAQR20m+QpSBXgU0CuSTj9/93v/8v//V/xW+48UBD/zAwAAQQSAMzOMiABoBUswCd8ev/M7A669//OX7///Lr/x+gBlCoAJ0DEEAgDUy//zBISoKNAfoepJNRFmQkyJecfxj4/kDCEIiAigECiPErakTiiWMIAAgwAB4ZUlqMMhQQAAAAAElFTkSuQmCC" title="Tiếng Việt" alt="Tiếng Việt" width="16" height="11" /><span style="margin-left:0.3em;">Tiếng Việt</span></a> 
+<ul class="sub-menu">
+<li id='menu-item-506-vi' class="lang-item lang-item-7 lang-item-vi current-lang no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-home" ><a  href="http://bucepcoffee.com/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFsSURBVHjaYvzPgAD/UNlYEUAAmuTYAAAQhAEYqF/zFbe50RZ1cMmS9TLi0pJLRjZohAMTGFUN9HdnHgEE1sDw//+Tp0ClINW/f4NI9d////3+f+b3/1+////+9f/XL6A4o6ws0AaAAGIBm/0fRTVQ2v3Pf97f/4/9Aqv+DdHA8Ps3UANAALEAMSNQNdDGP3+ALvnf8vv/t9//9X/////7f+uv/4K//iciNABNBwggsJP+/IW4kuH3n//1v/8v+wVSDURmv/57//7/CeokoKFA0wECiAnkpL9/wH4CO+DNr/+VQA1A9PN/w6//j36CVIMRxEkAAQR20m+QpSBXgU0CuSTj9/93v/8v//V/xW+48UBD/zAwAAQQSAMzOMiABoBUswCd8ev/M7A669//OX7///Lr/x+gBlCoAJ0DEEAgDUy//zBISoKNAfoepJNRFmQkyJecfxj4/kDCEIiAigECiPErakTiiWMIAAgwAB4ZUlqMMhQQAAAAAElFTkSuQmCC" title="Tiếng Việt" alt="Tiếng Việt" width="16" height="11" /><span style="margin-left:0.3em;">Tiếng Việt</span></a> </li>
+<li id='menu-item-506-en' class="lang-item lang-item-4 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom" ><a  href="http://bucepcoffee.com/index.php/en/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAflJREFUeNpinDRzn5qN3uFDt16+YWBg+Pv339+KGN0rbVP+//2rW5tf0Hfy/2+mr99+yKpyOl3Ydt8njEWIn8f9zj639NC7j78eP//8739GVUUhNUNuhl8//ysKeZrJ/v7z10Zb2PTQTIY1XZO2Xmfad+f7XgkXxuUrVB6cjPVXef78JyMjA8PFuwyX7gAZj97+T2e9o3d4BWNp84K1NzubTjAB3fH0+fv6N3qP/ir9bW6ozNQCijB8/8zw/TuQ7r4/ndvN5mZgkpPXiis3Pv34+ZPh5t23//79Rwehof/9/NDEgMrOXHvJcrllgpoRN8PFOwy/fzP8+gUlgZI/f/5xcPj/69e/37//AUX+/mXRkN555gsOG2xt/5hZQMwF4r9///75++f3nz8nr75gSms82jfvQnT6zqvXPjC8e/srJQHo9P9fvwNtAHmG4f8zZ6dDc3bIyM2LTNlsbtfM9OPHH3FhtqUz3eXX9H+cOy9ZMB2o6t/Pn0DHMPz/b+2wXGTvPlPGFxdcD+mZyjP8+8MUE6sa7a/xo6Pykn1s4zdzIZ6///8zMGpKM2pKAB0jqy4UE7/msKat6Jw5mafrsxNtWZ6/fjvNLW29qv25pQd///n+5+/fxDDVbcc//P/zx/36m5Ub9zL8+7t66yEROcHK7q5bldMBAgwADcRBCuVLfoEAAAAASUVORK5CYII=" title="English" alt="English" width="16" height="11" /><span style="margin-left:0.3em;">English</span></a> </li>
+</ul>
+</li>
+</ul>									<!-- /#main-nav -->
+									
+																		
+															</nav>
+							<!-- /#main-nav-wrap -->
+							
+						</div>
+
+																				<!-- /header-widgets -->
+						
+						<a id="menu-icon-close" href="#"></a>
+
+						
+					</div><!-- #mobile-menu -->
+                     					<!-- /#mobile-menu -->
+				
+				
+				
+				
+			</header>
+			<!-- /#header -->
+
+	        
+		</div>
+		<!-- /#headerwrap -->
+	
+	<div id="body" class="clearfix">
+
+		
+
+<!-- layout-container -->
+<div id="layout" class="pagewidth clearfix">
+
+		<!-- content -->
+	<div id="content" class="clearfix">
+    	
+					<h1 class="page-title">404</h1>
+			<p>Page not found.</p>
+					
+				
+				
+			</div>
+	<!-- /content -->
+    
+	    
+    <aside id="sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSidebar">
+
+        
+	
+        
+    </aside>
+    <!-- /#sidebar -->
+
+    
+	
+
+</div>
+<!-- /layout-container -->
+
+			</div><!-- /body -->
+
+							<div id="footerwrap"   >
+										<footer id="footer" class="pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+						<div class="back-top clearfix back-top-float back-top-hide"><div class="arrow-up"><a href="#header"></a></div></div>
+						<div class="main-col first clearfix">
+							<div class="footer-left-wrap first">
+																	<div class="footer-logo-wrapper clearfix">
+										<div id="footer-logo"><a href="http://bucepcoffee.com" title=""><span></span></a></div>										<!-- /footer-logo -->
+									</div>
+															
+															</div>
+							
+							<div class="footer-right-wrap">
+																	<div class="footer-nav-wrap">
+																			</div>
+									<!-- /.footer-nav-wrap -->
+								
+															</div>
+						</div>
+
+																					<div class="section-col clearfix">
+									<div class="footer-widgets-wrap">
+										
+		<div class="footer-widgets clearfix">
+							<div class="col4-1 first">
+					<div id="text-1002" class="widget widget_text"><h4 class="widgettitle">Bucep</h4>			<div class="textwidget"><p>Chúng tôi vui mừng chia sẻ câu chuyện mà mọi hạt đậu có thể kể. Đi vào, nhấp một ngụm, và khám phá với chúng tôi!</p>
+</div>
+		</div>				</div>
+							<div class="col4-1 ">
+					<div id="text-1003" class="widget widget_text"><h4 class="widgettitle">Giờ mở cửa</h4>			<div class="textwidget"><p>HAI – SÁU: 9:00 – 22:00<br />
+BẢY – CN: 7:00 – 23:00</p>
+</div>
+		</div>				</div>
+							<div class="col4-1 ">
+					<div id="text-1004" class="widget widget_text"><h4 class="widgettitle">Liên hệ</h4>			<div class="textwidget"><p>No A14 30/4 Street<br />
+Hai Chau Dist, Da Nang City<br />
+Viet Nam</p>
+<p><a href="http://www.facebook.com/bucepcoffee">www.facebook.com/bucepcoffee</a></p>
+</div>
+		</div>				</div>
+							<div class="col4-1 ">
+									</div>
+					</div>
+		<!-- /.footer-widgets -->
+
+											<!-- /footer-widgets -->
+									</div>
+								</div>
+								<div class="footer-text clearfix">
+									<div class="footer-text-inner">
+										<div class="one">© 2020
+Powered by @Hoatamus</div>									</div>
+								</div>
+								<!-- /.footer-text -->
+													
+											</footer><!-- /#footer -->
+
+					
+				</div><!-- /#footerwrap -->
+			
+		</div><!-- /#pagewrap -->
+
+		
+				<!-- wp_footer -->
+		
+
+<script type='text/javascript' id='themify-main-script-js-extra'>
+/* <![CDATA[ */
+var themify_vars = {"version":"4.8.6","url":"http:\/\/bucepcoffee.com\/wp-content\/themes\/themify-ultra\/themify","wp":"5.5.17","map_key":"AIzaSyACZFm8YGggtew_gDTzw9Qpj5X7-V_DC-4","bing_map_key":null,"includesURL":"http:\/\/bucepcoffee.com\/wp-includes\/","isCached":null,"commentUrl":"","minify":{"css":{"themify-icons":1,"lightbox":1,"main":1,"themify-builder-style":1},"js":{"backstretch.themify-version":1,"bigvideo":1,"themify.dropdown":1,"themify.mega-menu":1,"themify.builder.script":1,"themify.scroll-highlight":1,"themify-youtube-bg":1,"themify-ticks":1}},"media":{"css":{"wp-mediaelement":{"src":"http:\/\/bucepcoffee.com\/wp-includes\/js\/mediaelement\/wp-mediaelement.min.css","v":false},"mediaelement":{"src":"http:\/\/bucepcoffee.com\/wp-includes\/js\/mediaelement\/mediaelementplayer-legacy.min.css","v":"4.2.13-9993131"}},"_wpmejsSettings":"var _wpmejsSettings = {\"pluginPath\":\"\\\/wp-includes\\\/js\\\/mediaelement\\\/\",\"classPrefix\":\"mejs-\",\"stretching\":\"responsive\"};","js":{"mediaelement-core":{"src":"http:\/\/bucepcoffee.com\/wp-includes\/js\/mediaelement\/mediaelement-and-player.min.js","v":"4.2.13-9993131","extra":{"before":[false,"var mejsL10n = {\"language\":\"en\",\"strings\":{\"mejs.download-file\":\"Download File\",\"mejs.install-flash\":\"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\\\/\\\/get.adobe.com\\\/flashplayer\\\/\",\"mejs.fullscreen\":\"Fullscreen\",\"mejs.play\":\"Play\",\"mejs.pause\":\"Pause\",\"mejs.time-slider\":\"Time Slider\",\"mejs.time-help-text\":\"Use Left\\\/Right Arrow keys to advance one second, Up\\\/Down arrows to advance ten seconds.\",\"mejs.live-broadcast\":\"Live Broadcast\",\"mejs.volume-help-text\":\"Use Up\\\/Down Arrow keys to increase or decrease volume.\",\"mejs.unmute\":\"Unmute\",\"mejs.mute\":\"Mute\",\"mejs.volume-slider\":\"Volume Slider\",\"mejs.video-player\":\"Video Player\",\"mejs.audio-player\":\"Audio Player\",\"mejs.captions-subtitles\":\"Captions\\\/Subtitles\",\"mejs.captions-chapters\":\"Chapters\",\"mejs.none\":\"None\",\"mejs.afrikaans\":\"Afrikaans\",\"mejs.albanian\":\"Albanian\",\"mejs.arabic\":\"Arabic\",\"mejs.belarusian\":\"Belarusian\",\"mejs.bulgarian\":\"Bulgarian\",\"mejs.catalan\":\"Catalan\",\"mejs.chinese\":\"Chinese\",\"mejs.chinese-simplified\":\"Chinese (Simplified)\",\"mejs.chinese-traditional\":\"Chinese (Traditional)\",\"mejs.croatian\":\"Croatian\",\"mejs.czech\":\"Czech\",\"mejs.danish\":\"Danish\",\"mejs.dutch\":\"Dutch\",\"mejs.english\":\"English\",\"mejs.estonian\":\"Estonian\",\"mejs.filipino\":\"Filipino\",\"mejs.finnish\":\"Finnish\",\"mejs.french\":\"French\",\"mejs.galician\":\"Galician\",\"mejs.german\":\"German\",\"mejs.greek\":\"Greek\",\"mejs.haitian-creole\":\"Haitian Creole\",\"mejs.hebrew\":\"Hebrew\",\"mejs.hindi\":\"Hindi\",\"mejs.hungarian\":\"Hungarian\",\"mejs.icelandic\":\"Icelandic\",\"mejs.indonesian\":\"Indonesian\",\"mejs.irish\":\"Irish\",\"mejs.italian\":\"Italian\",\"mejs.japanese\":\"Japanese\",\"mejs.korean\":\"Korean\",\"mejs.latvian\":\"Latvian\",\"mejs.lithuanian\":\"Lithuanian\",\"mejs.macedonian\":\"Macedonian\",\"mejs.malay\":\"Malay\",\"mejs.maltese\":\"Maltese\",\"mejs.norwegian\":\"Norwegian\",\"mejs.persian\":\"Persian\",\"mejs.polish\":\"Polish\",\"mejs.portuguese\":\"Portuguese\",\"mejs.romanian\":\"Romanian\",\"mejs.russian\":\"Russian\",\"mejs.serbian\":\"Serbian\",\"mejs.slovak\":\"Slovak\",\"mejs.slovenian\":\"Slovenian\",\"mejs.spanish\":\"Spanish\",\"mejs.swahili\":\"Swahili\",\"mejs.swedish\":\"Swedish\",\"mejs.tagalog\":\"Tagalog\",\"mejs.thai\":\"Thai\",\"mejs.turkish\":\"Turkish\",\"mejs.ukrainian\":\"Ukrainian\",\"mejs.vietnamese\":\"Vietnamese\",\"mejs.welsh\":\"Welsh\",\"mejs.yiddish\":\"Yiddish\"}};"]}},"mediaelement-migrate":{"src":"http:\/\/bucepcoffee.com\/wp-includes\/js\/mediaelement\/mediaelement-migrate.min.js","v":false,"extra":""}}},"scrollTo":null};
+var tbLocalScript = {"ajaxurl":"http:\/\/bucepcoffee.com\/wp-admin\/admin-ajax.php","isAnimationActive":"1","isParallaxActive":"1","isScrollEffectActive":"1","isStickyScrollActive":"1","animationInviewSelectors":[".module.wow",".module_row.wow",".builder-posts-wrap > .post.wow"],"backgroundSlider":{"autoplay":5000},"animationOffset":"100","videoPoster":"http:\/\/bucepcoffee.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"http:\/\/bucepcoffee.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder","framework_url":"http:\/\/bucepcoffee.com\/wp-content\/themes\/themify-ultra\/themify","version":"4.8.6","fullwidth_support":"1","fullwidth_container":"body","loadScrollHighlight":"1","addons":[],"breakpoints":{"tablet_landscape":[769,"1280"],"tablet":[681,"768"],"mobile":"680"},"ticks":{"tick":30,"ajaxurl":"http:\/\/bucepcoffee.com\/wp-admin\/admin-ajax.php","postID":false},"cf_api_url":"http:\/\/bucepcoffee.com\/?tb_load_cf=","emailSub":"Check this out!"};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"lightboxContext":"body"};
+var tbScrollHighlight = {"fixedHeaderSelector":"#headerwrap.fixed-header","speed":"900","navigation":"#main-nav, .module-menu .ui.nav","scrollOffset":"-5","scroll":"internal"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='http://bucepcoffee.com/wp-content/themes/themify-ultra/themify/js/main.min.js?ver=4.8.6' id='themify-main-script-js'></script>
+<script type='text/javascript' defer="defer" src='http://bucepcoffee.com/wp-content/themes/themify-ultra/themify/js/themify.sidemenu.min.js?ver=2.7.5' id='slide-nav-js'></script>
+<script type='text/javascript' id='theme-script-js-extra'>
+/* <![CDATA[ */
+var themifyScript = {"themeURI":"http:\/\/bucepcoffee.com\/wp-content\/themes\/themify-ultra","lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"fixedHeader":"fixed-header","sticky_header":"","ajax_nonce":"6b70079ad4","ajax_url":"http:\/\/bucepcoffee.com\/wp-admin\/admin-ajax.php","parallaxHeader":"1","pageLoaderEffect":"","infiniteEnable":"0","fullPageScroll":"","shop_masonry":"no","responsiveBreakpoints":{"tablet_landscape":"1280","tablet":"768","mobile":"680"}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='http://bucepcoffee.com/wp-content/themes/themify-ultra/js/themify.script.min.js?ver=2.7.5' id='theme-script-js'></script>
+<script type='text/javascript' src='http://bucepcoffee.com/wp-includes/js/wp-embed.min.js?ver=5.5.17' id='wp-embed-js'></script>
+	</body>
+</html>

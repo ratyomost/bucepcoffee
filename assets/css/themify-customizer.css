@@ -1,0 +1,53 @@
+/* Themify Customize Styling */
+body[class*="themify"] #site-logo a img {
+	width: 100px;
+}
+
+#site-logo {
+	margin: auto;
+}
+
+#footerwrap {
+	background-image: url(http://bucepcoffee.com/wp-content/uploads/2020/06/About-Footer-background.jpg);
+	background-repeat: no-repeat;
+}
+
+#footer-logo a {
+	display: none;
+}
+
+#footer {
+	color: #ffffff;
+}
+
+#footer a {
+	color: #c59d5f;
+}
+
+#footer .footer-widgets .widgettitle {
+	color: #c59d5f;
+}
+
+@media screen and (max-width: 1280px) {
+
+	/* Themify Customize Styling */
+	body[class*="themify"] #site-logo a img {
+		width: 100px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+
+	/* Themify Customize Styling */
+	body[class*="themify"] #site-logo a img {
+		width: 100px;
+	}
+}
+
+@media screen and (max-width: 680px) {
+
+	/* Themify Customize Styling */
+	body[class*="themify"] #site-logo a img {
+		width: 100px;
+	}
+}
